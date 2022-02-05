@@ -103,10 +103,10 @@ analytics:
 # Site Author
 author:
   name             : "Valeria Velasquez Zapata, Ph.D."
-  avatar           : # path of avatar image, e.g. "https://github.com/vvelasqz.png"
+  avatar           : "https://github.com/vvelasqz.png"
   bio              : "I am an **amazing** person."
   location         : "Ames, IA"
-  email            :
+  email            : "valeria.velasquezz@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
