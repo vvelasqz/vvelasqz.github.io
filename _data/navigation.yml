@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /about_vvz/
   - title: "Publications"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /publications/
   - title: "Research"
     url: /year-archive/
   - title: "Outreach"
