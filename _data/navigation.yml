@@ -5,8 +5,10 @@ main:
   - title: "Publications"
     url: /publications/
   - title: "Research"
-    url: /year-archive/
+    url: /research/
   - title: "Outreach"
-    url: /collection-archive/
+    url: /outreach/
+  - title: "Funding resources"
+    url: /funding/
   - title: "CV"
-    url: /sitemap/
+    url: https://drive.google.com/file/d/1Ic5xGabjK0lirtI4n8pfSYqFDXbMNdhN/view?usp=sharing
