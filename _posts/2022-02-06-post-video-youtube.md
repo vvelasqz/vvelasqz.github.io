@@ -6,6 +6,6 @@ tags:
   - Post Formats
 ---
 
-A talk about he Y2H-SCORES software
+A talk about the Y2H-SCORES software
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/vRJNrtzFiUs" frameborder="0" allowfullscreen></iframe>
