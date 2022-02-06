@@ -8,4 +8,4 @@ tags:
 
 A talk about he Y2H-SCORES software
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/vRJNrtzFiUs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/vRJNrtzFiUs" frameborder="0" allowfullscreen></iframe>
