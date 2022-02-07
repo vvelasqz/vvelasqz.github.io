@@ -9,7 +9,7 @@ permalink: /research/
 
 I extended Y2H-SCORES to work with mass spectomertry Co-IP data, as you can see [here](https://github.com/vvelasqz/BC1)
 
-##Interact-omics
+## Interact-omics
 I developed [Interact-omics](https://github.com/vvelasqz/Barley_Interactome), a series of workflows to integrate interactome data with other omics like eQTL, RNASeq and Y2H-NGIS. Different network analyses are presented and applied to characterize the signaling of the *Mla* receptor. 
 
 ## TranscriptoNET
