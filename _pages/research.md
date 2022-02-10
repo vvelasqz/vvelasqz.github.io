@@ -14,6 +14,9 @@ I developed [Interact-omics](https://github.com/vvelasqz/Barley_Interactome), a 
 
 ## TranscriptoNET
 I am developing different data analysis workflows for transcriptome data. [TranscriptoNET](https://github.com/vvelasqz/TranscriptoNET) include generation and integration of Gene Ragulatory Networks (GRNs), prioritization of transcription factors for their role in regulating expression, data visualization and epistatic analysis of gene effects on gene expression. 
+
+## Genetic resources
+I have collaborated in different projects exploring the genomics and population structure of different groups of organisms. These had different applications going from [genome evolution](https://www.news.iastate.edu/news/2020/08/12/tuatara) to the assessment of genetic diversity linked with [agronomic](https://www.researchgate.net/project/Avocado-Rootstock-Breeding-Program) or [clinical](https://github.com/vvelasqz/Fusarium_Genotyping) traits.
    
 
 
