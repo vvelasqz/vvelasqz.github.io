@@ -1,5 +1,5 @@
 ---
-title: "BECAS IBEROAMÉRICA+ASIA"
+title: "The Tuatara genome"
 categories:
   - Post Formats
 tags:
@@ -8,4 +8,4 @@ tags:
 link: https://www.news.iastate.edu/news/2020/08/12/tuatara
 ---
 
-I am happy to share our research in the study of the [Tuatara's genome ](https://www.news.iastate.edu/news/2020/08/12/tuatara)
+I am happy to share our research in the study of the [Tuatara genome ](https://www.news.iastate.edu/news/2020/08/12/tuatara)
